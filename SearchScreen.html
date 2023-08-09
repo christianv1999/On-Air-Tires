@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./SearchScreen.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;600;700;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="search-screen">
+      <div class="ios-frame8">
+        <b class="search-by">Search By...</b>
+        <div class="surface17"></div>
+        <div class="surface18"></div>
+        <div class="surface19"></div>
+        <b class="vehicle">Vehicle</b>
+        <b class="tire-size">Tire Size</b>
+        <b class="rim-size">Rim Size</b>
+        <div class="tire-type">Tire Type</div>
+        <div class="text-input3">
+          <div class="div37">14</div>
+        </div>
+        <div class="text-input4">
+          <div class="div38">165</div>
+        </div>
+        <div class="text-input5">
+          <b class="metric-tire">Metric Tire</b>
+        </div>
+        <div class="surface20"></div>
+        <b class="search" id="searchText">Search</b>
+        <div class="text-input6">
+          <b class="metric-tire">Flotation Tire</b>
+        </div>
+      </div>
+      <div class="ios-uistatus-bar8">
+        <img class="right-side-icon8" alt="" src="./public/right-side2.svg" />
+
+        <div class="left-side8">
+          <div class="time8">
+            <div class="div39">9:41</div>
+          </div>
+        </div>
+        <img class="union-icon8" alt="" src="./public/union.svg" />
+      </div>
+      <div class="tire-type1">Tire Type</div>
+      <div class="rim-diameter">Rim Diameter</div>
+      <div class="aspect-ratio">Aspect Ratio</div>
+      <div class="text-input7">
+        <div class="div40">60</div>
+      </div>
+      <div class="search-screen-child"></div>
+      <div class="label34">Settings</div>
+      <div class="label35">Search</div>
+      <div class="label36">What’s New</div>
+      <div class="label37">Profile</div>
+      <img class="settings-icon16" alt="" src="./public/settings10.svg" />
+
+      <img class="settings-icon17" alt="" src="./public/settings8.svg" />
+
+      <img class="image-34-icon4" alt="" src="./public/image-34@2x.png" />
+    </div>
+
+    <script>
+      var searchText = document.getElementById("searchText");
+      if (searchText) {
+        searchText.addEventListener("click", function (e) {
+          window.location.href = "./ListedItemsScreen1.html";
+        });
+      }
+      </script>
+  </body>
+</html>
