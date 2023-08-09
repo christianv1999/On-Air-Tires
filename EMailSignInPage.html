@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./EMailSignInPage.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;600;700;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="e-mail-sign-in-page">
+      <div class="ios-uistatus-bar14">
+        <img class="right-side-icon14" alt="" src="./public/right-side.svg" />
+
+        <div class="left-side14">
+          <div class="time14">
+            <div class="div52">9:41</div>
+          </div>
+        </div>
+        <img class="union-icon14" alt="" src="./public/union.svg" />
+      </div>
+      <div class="ios-uihome-indicator4">
+        <div class="home-indicator4"></div>
+      </div>
+      <div class="sign-up8">
+        <b class="label50">E-mail</b>
+        <div class="text-input20"></div>
+      </div>
+      <div class="sign-up9">
+        <b class="label50">Password</b>
+        <div class="text-input20"></div>
+      </div>
+      <img class="img-7510-1-icon" alt="" src="./public/img-7510-1@2x.png" />
+
+      <div class="surface23"></div>
+      <div class="if-youre-a-container">
+        <span class="if-youre-a-container1">
+          <span>If you’re a new user, </span>
+          <span class="click-here">click here</span>
+          <span> to register</span>
+        </span>
+      </div>
+      <div class="image-10-frame" id="frameContainer">
+        <img class="image-10-icon8" alt="" src="./public/image-10@2x.png" />
+      </div>
+      <div class="button">
+        <div class="label52">Sign In</div>
+      </div>
+      <div class="e-mail-sign-in-page-child" id="frame"></div>
+    </div>
+
+    <script>
+      var frameContainer = document.getElementById("frameContainer");
+      if (frameContainer) {
+        frameContainer.addEventListener("click", function (e) {
+          window.location.href = "./CoverPage.html";
+        });
+      }
+      
+      var frame = document.getElementById("frame");
+      if (frame) {
+        frame.addEventListener("click", function (e) {
+          window.location.href = "./SignUpScreen1.html";
+        });
+      }
+      </script>
+  </body>
+</html>

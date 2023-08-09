@@ -1,0 +1,268 @@
+.add-your-card {
+  position: absolute;
+  top: 505px;
+  left: 64px;
+  letter-spacing: 0.02em;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 282px;
+  height: 36px;
+}
+.surface22 {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  border-radius: var(--br-base);
+  background-color: var(--color-gray);
+  width: 146px;
+  height: 64px;
+}
+.register1 {
+  position: absolute;
+  top: 15px;
+  left: 29px;
+  letter-spacing: 2px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 121px;
+  height: 50px;
+}
+.surface-parent2 {
+  position: absolute;
+  top: 670px;
+  left: 98px;
+  width: 178px;
+  height: 79px;
+  overflow: hidden;
+  color: var(--white);
+}
+.image-10-icon7 {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  border-radius: var(--br-84xl);
+  width: 33px;
+  height: 34px;
+  object-fit: cover;
+}
+.image-10-container {
+  position: absolute;
+  top: 50px;
+  left: 14px;
+  width: 35px;
+  height: 36px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.image-16-icon {
+  position: absolute;
+  top: 7px;
+  left: 3px;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.image-16-wrapper {
+  position: absolute;
+  top: 501px;
+  left: 13px;
+  width: 38px;
+  height: 40px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.adding-your-card {
+  position: absolute;
+  top: 603px;
+  left: 32px;
+  font-size: var(--font-size-mini);
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  text-align: left;
+  display: inline-block;
+  width: 314px;
+  height: 46px;
+}
+.ios-frame13 {
+  position: absolute;
+  top: -16px;
+  left: -16px;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-floralwhite);
+  border: 16px solid var(--color-silver-200);
+  box-sizing: border-box;
+  width: 407px;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+}
+.right-side-icon13 {
+  position: absolute;
+  top: 17.33px;
+  right: 18.67px;
+  width: 66.66px;
+  height: 11.34px;
+}
+.div49 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  width: 54px;
+  height: 20px;
+}
+.left-side13,
+.time13 {
+  position: absolute;
+  width: 54px;
+  height: 21px;
+}
+.time13 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+}
+.left-side13 {
+  top: 12px;
+  left: 24px;
+}
+.union-icon13 {
+  position: relative;
+  width: 170px;
+  height: 32px;
+}
+.ios-uistatus-bar13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 44px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-inter);
+}
+.home-indicator3 {
+  position: absolute;
+  bottom: 8px;
+  left: calc(50% - 66.5px);
+  border-radius: var(--br-81xl);
+  background-color: var(--primary);
+  width: 134px;
+  height: 5px;
+}
+.ios-uihome-indicator3 {
+  position: absolute;
+  top: 780px;
+  left: 28px;
+  background-color: var(--color-floralwhite);
+  width: 319px;
+  height: 22px;
+}
+.label46 {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 22px;
+}
+.text-input16 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-7xs);
+  background-color: var(--white);
+  border: 1px solid var(--color-black);
+}
+.sign-up4 {
+  position: absolute;
+  top: 108px;
+  left: 16px;
+  width: 345px;
+  height: 74px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: var(--gap-9xs);
+}
+.text-input17 {
+  align-self: stretch;
+  position: relative;
+  border-radius: var(--br-7xs);
+  background-color: var(--white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 48px;
+}
+.sign-up5,
+.sign-up6,
+.sign-up7 {
+  position: absolute;
+  top: 204px;
+  left: 16px;
+  width: 345px;
+  height: 74px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: var(--gap-9xs);
+}
+.sign-up6,
+.sign-up7 {
+  top: 396px;
+}
+.sign-up7 {
+  top: 300px;
+}
+.carl-price2,
+.defaultnomailcom1,
+.div50,
+.div51 {
+  position: absolute;
+  top: 140px;
+  left: 25px;
+  font-size: var(--font-size-lg);
+  letter-spacing: 2px;
+  display: flex;
+  align-items: center;
+  width: 163px;
+  height: 36px;
+}
+.defaultnomailcom1,
+.div50,
+.div51 {
+  top: 234px;
+  line-height: 20px;
+  width: 221px;
+  height: 40px;
+}
+.div50,
+.div51 {
+  top: 332px;
+  width: 167px;
+  height: 37px;
+}
+.div51 {
+  top: 426px;
+  left: 24px;
+  width: 157px;
+  height: 40px;
+}
+.sign-up-screen1 {
+  position: relative;
+  width: 100%;
+  height: 812px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

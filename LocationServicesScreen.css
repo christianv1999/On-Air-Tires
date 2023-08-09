@@ -1,0 +1,374 @@
+.ios-frame-child {
+  position: absolute;
+  top: 718px;
+  left: 0;
+  background-color: var(--color-black);
+  width: 375px;
+  height: 94px;
+}
+.label6,
+.label7,
+.label8,
+.label9 {
+  position: absolute;
+  top: calc(50% + 345px);
+  left: 71.74%;
+}
+.label7,
+.label8,
+.label9 {
+  left: 52.33%;
+}
+.label8,
+.label9 {
+  left: 24.32%;
+}
+.label9 {
+  left: 5.41%;
+}
+.settings-icon2 {
+  position: absolute;
+  height: 3.08%;
+  width: 6.63%;
+  top: 86.85%;
+  right: 17.2%;
+  bottom: 10.07%;
+  left: 76.17%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ios-frame-item {
+  position: absolute;
+  top: 390.5px;
+  left: -1.5px;
+  border-top: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 378px;
+  height: 3px;
+}
+.estimated-delivery-time {
+  position: absolute;
+  top: 406px;
+  left: 52px;
+  font-size: var(--font-size-xl);
+  display: flex;
+  color: var(--color-black);
+  align-items: center;
+  width: 272px;
+  height: 48px;
+}
+.tracking-number {
+  position: absolute;
+  top: 473px;
+  left: 18px;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.02em;
+  line-height: 22px;
+  font-weight: 600;
+  color: var(--color-black);
+  display: inline-block;
+  width: 129px;
+  height: 17px;
+}
+.ios-frame-inner {
+  position: absolute;
+  top: 559px;
+  left: 17px;
+  background-color: var(--color-floralwhite);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 21px;
+  height: 21px;
+}
+.e-mail-updates,
+.text-updates {
+  left: 56px;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.02em;
+  line-height: 22px;
+  font-weight: 600;
+  color: var(--color-black);
+  display: inline-block;
+}
+.e-mail-updates {
+  position: absolute;
+  top: 556px;
+  width: 119px;
+  height: 27px;
+}
+.text-updates {
+  top: 600px;
+  width: 99px;
+  height: 21px;
+}
+.done,
+.surface,
+.text-updates {
+  position: absolute;
+}
+.surface {
+  height: 5.92%;
+  width: 22.11%;
+  top: 76.42%;
+  right: 42.75%;
+  bottom: 17.65%;
+  left: 35.14%;
+  border-radius: var(--br-base);
+  background-color: var(--color-gray);
+}
+.done {
+  top: 7px;
+  left: 9px;
+  letter-spacing: 0.02em;
+  line-height: 22px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 72px;
+  height: 34px;
+}
+.done-wrapper {
+  position: absolute;
+  top: 646px;
+  left: 143px;
+  width: 90px;
+  height: 49px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--white);
+}
+.image-40-icon {
+  position: absolute;
+  top: 561px;
+  left: 19px;
+  width: 17px;
+  height: 17px;
+  object-fit: cover;
+  mix-blend-mode: darken;
+}
+.ios-frame1,
+.ios-uistatus-bar1 {
+  position: absolute;
+  overflow: hidden;
+}
+.ios-frame1 {
+  top: -16px;
+  left: -16px;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-floralwhite);
+  border: 16px solid var(--color-silver-200);
+  box-sizing: border-box;
+  width: 407px;
+  height: 844px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-floralwhite);
+  font-family: var(--font-roboto);
+}
+.ios-uistatus-bar1 {
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 44px;
+}
+.settings-icon3 {
+  height: 4%;
+  width: 80.8%;
+  top: 89.9%;
+  right: 10.13%;
+  bottom: 6.1%;
+  left: 9.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.b,
+.settings-icon3,
+.text-input2 {
+  position: absolute;
+}
+.b {
+  top: 3px;
+  left: 4px;
+  letter-spacing: 0.02em;
+  line-height: 22px;
+  display: inline-block;
+  width: 163px;
+  height: 24px;
+}
+.text-input2 {
+  top: 497px;
+  left: 15px;
+  border-radius: var(--br-7xs);
+  background-color: var(--white);
+  border: 1px solid var(--primary);
+  box-sizing: border-box;
+  width: 345px;
+  height: 32px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-roboto);
+}
+.location-services-screen-child {
+  position: absolute;
+  top: 600px;
+  left: 17px;
+  background-color: var(--color-floralwhite);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 21px;
+  height: 21px;
+}
+.image-35-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-26xl) var(--br-26xl) 0 0;
+  width: 375px;
+  height: 388px;
+  object-fit: cover;
+}
+.location-services-screen-item {
+  position: absolute;
+  top: 317px;
+  left: 183.5px;
+  width: 27.5px;
+  height: 17.6px;
+}
+.line-icon,
+.location-services-screen-inner {
+  position: absolute;
+  top: 324.98px;
+  left: 208.15px;
+  width: 9.15px;
+  height: 8.47px;
+}
+.line-icon {
+  top: 316px;
+  left: 215px;
+  width: 19.72px;
+  height: 11.69px;
+}
+.location-services-screen-child1 {
+  position: absolute;
+  top: 274px;
+  left: 232px;
+  width: 45.12px;
+  height: 45.12px;
+}
+.location-services-screen-child2 {
+  position: absolute;
+  top: 258.6px;
+  left: 275px;
+  width: 24.1px;
+  height: 17.88px;
+}
+.div1,
+.location-services-screen-child3 {
+  position: absolute;
+  top: 260px;
+  left: 296.61px;
+  width: 45.39px;
+  height: 25.66px;
+}
+.div1 {
+  top: 277px;
+  left: 191px;
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  width: 17px;
+  height: 18px;
+}
+.image-36-icon,
+.image-6-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.image-36-icon {
+  top: 286px;
+  left: 165px;
+  width: 35px;
+  height: 35px;
+  mix-blend-mode: darken;
+}
+.image-6-icon {
+  top: 271px;
+  left: 343px;
+  width: 20px;
+  height: 20px;
+}
+.union-icon1 {
+  position: relative;
+  width: 170px;
+  height: 32px;
+}
+.div2,
+.left-side1,
+.time1 {
+  position: absolute;
+  width: 54px;
+}
+.div2 {
+  top: 1px;
+  left: 0;
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  height: 20px;
+}
+.left-side1,
+.time1 {
+  height: 21px;
+}
+.time1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+}
+.left-side1 {
+  top: 12px;
+  left: 24px;
+}
+.right-side-icon1 {
+  position: absolute;
+  top: 17.33px;
+  right: 18.67px;
+  width: 66.66px;
+  height: 11.34px;
+}
+.this-is-just {
+  position: absolute;
+  top: 60px;
+  left: 110px;
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  width: 172px;
+  height: 80px;
+}
+.image-41-icon {
+  position: absolute;
+  top: 602px;
+  left: 19px;
+  width: 17px;
+  height: 17px;
+  object-fit: cover;
+  mix-blend-mode: darken;
+}
+.location-services-screen {
+  position: relative;
+  width: 100%;
+  height: 812px;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
